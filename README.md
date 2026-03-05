@@ -21,14 +21,19 @@ This project reflects modern AI engineering principles used in enterprise knowle
 
 User Query
 ↓
+
 Text Embedding Generation
 ↓
+
 Vector Similarity Search (Pinecone)
 ↓
+
 Context Retrieval
 ↓
+
 LLM Reasoning
 ↓
+
 Source-Grounded Response
 
 🛠 Tech Stack
@@ -40,6 +45,7 @@ OpenAI / Gemini (LLM Provider)
 Semantic Embeddings
 
 📂 Project Structure
+
 VectorMind-AI/
 │
 ├── rag/              # Retrieval and embedding logic
