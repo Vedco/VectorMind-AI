@@ -20,18 +20,23 @@ This project reflects modern AI engineering principles used in enterprise knowle
 🏗 Architecture
 
 User Query
+
 ↓
 
 Text Embedding Generation
+
 ↓
 
 Vector Similarity Search (Pinecone)
+
 ↓
 
 Context Retrieval
+
 ↓
 
 LLM Reasoning
+
 ↓
 
 Source-Grounded Response
